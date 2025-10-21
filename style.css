@@ -16,9 +16,12 @@ img{
     background-size: cover;
 
 }
-
+.banner-image {
+    font-size : 75%;
+    margin-bottom : 100px;
+}
 .hero-text{
-    color: whitesmoke;
+    color: rgb(0, 0, 0);
     position: absolute;
     top: 180px;
     text-align: center;
